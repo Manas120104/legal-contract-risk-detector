@@ -340,8 +340,7 @@ To be added
 
 - **Author**: Manas Kamal Das
 - **Email**: manaskd2019@gmail.com
-- **Project Link**: [https://github.com/yourusername/legal-contract-risk-detector](https://github.com/yourusername/legal-contract-risk-detector)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/legal-contract-risk-detector/issues)
+- **Project Link**: [https://github.com/Manas120104/legal-contract-risk-detector](https://github.com/yourusername/legal-contract-risk-detector)
 
 ---
 
