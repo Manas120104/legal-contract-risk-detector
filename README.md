@@ -1,3 +1,5 @@
+<img width="1918" height="207" alt="image" src="https://github.com/user-attachments/assets/359a8258-f5e2-4c10-9a1c-81b95bf6e7e4" />
+
 # 🛡️ Legal Contract Risk Detector
 
 <div align="center">
@@ -38,7 +40,7 @@
 
 ## 🎯 Overview
 
-The **Legal Contract Risk Detector** is a state-of-the-art machine learning system designed to automatically identify, classify, and assess risks within legal contracts. By combining the power of transformer-based language models, density-based clustering, and bio-inspired optimization, this system provides robust and accurate risk detection capabilities.
+The **Legal Contract Risk Detector** is a state-of-the-art hybrid AI model designed to automatically identify, classify, and assess risks within legal contracts. By combining the power of transformer-based language models, density-based hierarchical clustering, and bio-inspired optimization, this system provides robust and accurate risk detection capabilities.
 
 ### Why This Matters
 
@@ -227,9 +229,10 @@ graph LR
 
 Our system automatically identifies and categorizes risks in legal contracts with color-coded severity levels:
 
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/risk.png" alt="Risk Detection" width="100%"/>
+</p>
 
-![Sample Contract Risk Analysis](https://via.placeholder.com/1000x700?text=Sample+Contract+with+Risk+Highlighting)
 
 **Risk Color Coding:**
 - 🔴 **Red** - High Risk (Confidence > 80%)
@@ -248,7 +251,7 @@ The system detects and categorizes various types of contractual risks:
 |---------------|----------|---------------|
 | 🔴 **Liability** | High | Unlimited indemnification, uncapped liability |
 | 🔴 **IP Rights** | High | Broad IP assignment, work-for-hire clauses |
-| 🟡 **Termination** | Medium | Vague termination conditions, notice periods |
+| 🔴 **Termination** | High | Vague termination conditions, notice periods |
 | 🟡 **Non-Compete** | Medium | Restrictive geographical scope, duration |
 | 🟢 **Confidentiality** | Low | Standard confidentiality terms |
 
@@ -270,24 +273,32 @@ Our hybrid architecture achieves state-of-the-art performance on legal contract 
 <div align="center">
 
 #### Model Accuracy Over Epochs
-![Accuracy Graph](https://via.placeholder.com/800x400?text=Accuracy+Graph)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/acc.png" alt="Accuracy Graph" width="100%"/>
+</p>
 
-#### Precision Metrics
-![Precision Graph](https://via.placeholder.com/800x400?text=Precision+Graph)
+#### Model Precision Over Epochs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/pre.png" alt="Precision Graph" width="100%"/>
+</p>
 
-#### Recall Metrics
-![Recall Graph](https://via.placeholder.com/800x400?text=Recall+Graph)
+#### Model Recall Over Epochs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/rec.png" alt="Recall Graph" width="100%"/>
+</p>
 
-#### F1-Score Progression
-![F1 Score Graph](https://via.placeholder.com/800x400?text=F1-Score+Graph)
+#### Model F1-Score Over Epochs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/f1.png" alt="F1-Score Graph" width="100%"/>
+</p>
 
 </div>
 
 ### 🎯 Confusion Matrix
 
-<div align="center">
-
-![Confusion Matrix](https://via.placeholder.com/600x600?text=Confusion+Matrix)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Manas120104/legal-contract-risk-detector@main/images/conf.png" alt="Confusion Matrix" width="100%"/>
+</p>
 
 *The confusion matrix shows excellent classification performance with minimal misclassification across risk categories*
 
