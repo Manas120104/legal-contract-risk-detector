@@ -11,7 +11,7 @@
 
 **An intelligent system for detecting and analyzing risks in legal contracts using advanced NLP, AI and clustering techniques**
 
-[Features](#-features) • [Architecture](#-system-architecture) • [Notebooks](#-notebooks) • [Performance](#-performance-metrics)
+[Features](#-features) • [Architecture](#%EF%B8%8F-system-architecture) • [Notebooks](#-notebooks) • [Performance](#-performance-metrics)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 - [Overview](#-overview)
 - [Key Features](#-features)
-- [System Architecture](#-system-architecture)
+- [System Architecture](#%EF%B8%8F-system-architecture)
   - [ContractRiskBERT](#1️⃣-contractriskbert)
   - [HDBSCAN Clustering](#2️⃣-hdbscan-clustering)
   - [Harris Hawks Optimizer](#3️⃣-harris-hawks-optimizer)
