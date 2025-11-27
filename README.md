@@ -9,7 +9,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-**An intelligent system for detecting and analyzing risks in legal contracts using advanced NLP and clustering techniques**
+**An intelligent system for detecting and analyzing risks in legal contracts using advanced NLP, AI and clustering techniques**
 
 [Features](#-features) • [Architecture](#-architecture) • [Notebooks](#-notebooks) • [Performance](#-performance-metrics)
 
